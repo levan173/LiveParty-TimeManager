@@ -2,14 +2,14 @@
   "name": "com.liveparty.timemanager",
   "version": "1.0.0",
   "displayName": "LiveParty-TimeManager",
-  "description": "LiveParty\ufffd\ufffd\ufffd\ufffd\ufffd\u0435\ufffd\u02b1\ufffd\ufffd\ufffd\ufffd\ufffd\u0123\ufffd\ufffd",
+  "description": "Manage the time in LiveParty's DND game",
   "unity": "2019.4",
   "keywords": [
     "LiveParty",
     "TimeManager"
   ],
   "author": {
-    "name": "\ufffd\u8df2"
+    "name": "Levan"
   },
   "type": "tool"
 }
